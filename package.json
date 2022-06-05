@@ -1,0 +1,22 @@
+{
+  "name": "node-graphql-mongo",
+  "version": "1.0.0",
+  "description": "Use of graphql and mongo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klaudiusmiskinis/Node-GraphQL-Mongo.git"
+  },
+  "author": "Klaudijus Miskinis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klaudiusmiskinis/Node-GraphQL-Mongo/issues"
+  },
+  "homepage": "https://github.com/klaudiusmiskinis/Node-GraphQL-Mongo#readme",
+  "dependencies": {
+    "graphql": "^16.5.0"
+  }
+}
