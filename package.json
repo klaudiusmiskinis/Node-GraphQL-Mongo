@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/klaudiusmiskinis/Node-GraphQL-Mongo#readme",
   "dependencies": {
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
     "graphql": "^16.5.0"
+  },
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "nodemon": "^2.0.16"
   }
 }
